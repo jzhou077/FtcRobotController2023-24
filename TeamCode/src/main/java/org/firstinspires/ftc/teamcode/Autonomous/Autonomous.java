@@ -39,7 +39,7 @@ public class Autonomous extends LinearOpMode {
         if (opModeIsActive()) {
             while (opModeIsActive()) {
 
-                addTfodData();
+//              addTfodData();
                 addAprilTagData();
                 telemetry.update();
 
